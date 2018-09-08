@@ -1,0 +1,5 @@
+{
+    "require": {
+        "amphp/artax": "^3.0"
+    }
+}
